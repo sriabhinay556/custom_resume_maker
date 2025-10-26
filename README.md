@@ -48,7 +48,7 @@ echo "LLM_API_KEY=your-openai-api-key-here" >> .env
 ### 5. Prepare Your Resume
 Place your HTML resume file in the `templates/` folder. You can use the existing templates as examples:
 - `templates/1-base_resume_format.html`
-- `templates/2_base_resume_format.html`
+- `templates/2-base_resume_format.html`
 
 ### 6. Run the Pipeline
 
@@ -100,7 +100,7 @@ resume_builder/
 LLM_PROVIDER=openai
 
 # Your API Key
-LLM_API_KEY=sk-your-openai-api-key-here
+LLM_API_KEY=your-openai-api-key-here
 
 # Optional settings
 LLM_MODEL=gpt-4o-mini
@@ -139,13 +139,6 @@ python3 main_simple.py --web
 # Download tailored PDF automatically
 ```
 
-### Example 4: Remote Access
-```bash
-# Start server accessible from other computers
-python3 main_simple.py --web --host 0.0.0.0 --port 5000
-
-# Access from other computers: http://YOUR_IP:5000
-```
 
 ## 🛠️ Troubleshooting
 
