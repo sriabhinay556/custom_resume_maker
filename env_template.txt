@@ -1,0 +1,31 @@
+# Resume Automation Pipeline Configuration
+# Copy this file and rename it to .env, then add your actual API keys
+
+# LLM Provider (openai, anthropic, google, local)
+LLM_PROVIDER=openai
+
+# Your OpenAI API Key (get it from https://platform.openai.com/api-keys)
+LLM_API_KEY=sk-your-openai-api-key-here
+
+# Model name (optional, uses provider default)
+# LLM_MODEL=gpt-4o-mini
+
+# Temperature (0.0-1.0, default: 0.7)
+# LLM_TEMPERATURE=0.7
+
+# Max tokens (default: 4000)
+# LLM_MAX_TOKENS=4000
+
+# Output directory (default: output)
+# OUTPUT_DIR=output
+
+# Debug mode (true/false, default: false)
+# DEBUG=false
+
+# PDF margins (default: 0 for no margins)
+# PDF_MARGINS=0
+
+# Font settings
+# FONT_FAMILY=Arial, sans-serif
+# FONT_SIZE=12px
+# LINE_HEIGHT=1.4

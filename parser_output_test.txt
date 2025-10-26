@@ -1,0 +1,104 @@
+PARSER OUTPUT TEST
+==================================================
+
+ORIGINAL RESUME:
+Sriabhinay (Abi) Kusuma
++1 (256) 468-2929 | sriabhinay1@gmail.com | linkedin/sriabhinay556 | Dallas, Texas*
+
+OBJECTIVE
+AI Engineer with expertise in developing and deploying advanced AI solutions from fine-tuning to deployment. I'm a workhorse. I get things done. I love intense environment where I can wear multiple hats. I don't mind doing grunt work or long hours, all I care about is making an impact. Currently based in Dallas, TX. Open to relocation. Work authorization in-hand, no visa sponsorship required.
+
+SKILLS & INTERESTS
+Languages: Python, JavaScript, Java, SQL, Bash
+AI & Machine Learning: TensorFlow, Keras, PyTorch, Scikit-learn, Hugging Face Transformers, LangGraph, LangChain, RAG, BERT, LLaMA, GloVe
+NLP & Data Science: Text Classification, Sentiment Analysis, Clustering, Vector Embeddings, Retrieval Pipelines
+Computer Vision: OpenCV, Image Preprocessing, Object Detection (Foundational)
+MLOps & Cloud: AWS (Lambda, Bedrock, EC2, S3, DynamoDB), Docker, GitHub Actions (CI/CD), MLFlow, Nginx
+Web & Backend: React.js, Next.js, Node.js, Express.js, Django, Spring Boot, REST APIs
+Databases: PostgreSQL, MySQL, MongoDB, DynamoDB, ChromaDB (Vector DB)
+Tools & Platforms: Git, Linux, JIRA, Postman, Vercel, Figma, Agile, AWS Bedrock
+Certifications: AWS Certified Developer – Associate - Link
+Publications: Machine Learning – Deep Learning based Cyberbullying Detection. ResearchGate - Link
+
+WORK EXPERIENCE
+Garuna
+AI Engineer Aug 2024 – Present
+● Developed a Generative AI solution for high-volume warranty claims processing, leveraging NLP model fine-tuning on a proprietary, multi-format dataset (claims, receipts, images) to automate classification and response generation.
+● Led data engineering and curation for the initiative, preparing and labeling 50,000+ complex warranty claims data and engineering features (e.g., eligibility, failure codes) to ensure high-quality domain adaptation.
+● Optimized a state-of-the-art transformer-based NLP model utilizing Parameter-Efficient Fine-Tuning (PEFT) techniques, iteratively optimizing hyperparameters to achieve high accuracy in domain-specific claim classification and response generation.
+● Engineered a Retrieval-Augmented Generation (RAG) system to enhance the precision of information retrieval on domain-specific knowledge, improving retrieval accuracy by 20% for more accurate claim processing.
+● Architected and deployed a scalable MLOps pipeline via AWS AI services (Bedrock, Lambda, DynamoDB, S3), integrating the model with a FastAPI-based REST API and Docker for secure, low-latency, real-time handling of thousands of weekly claims.
+● Implemented continuous monitoring and optimization workflows, utilizing live feedback analysis to automate document requests, refine eligibility rules, and improve fraud detection in the production environment.
+● Developed a robust full-stack data pipeline including an automated web scraping component that processed over 1,000 articles monthly, reducing manual data collection time by 50 hours/month.
+● Built and deployed an AI-driven dashboard on cloud infrastructure to provide real-time insights, model outputs, and sentiment analysis derived from a BERT-based classifier (89% accuracy) fine-tuned on 1,100+ customer reviews.
+
+Archeed
+AI Software Engineer Jan 2024 – Aug 2024
+● Pioneered the development and deployment of two end-to-end Retrieval-Augmented Generation (RAG) systems for intelligent recommendation and semantic search, connecting over 1,000+ architecture professionals and significantly enhancing job-to-profile recommendation accuracy.
+● Architected and optimized real-time vector search pipelines using LangChain and pre-trained models (e.g., DistilBERT embeddings), resulting in a 40% improvement in content matching and retrieval speed across domain-specific data.
+● Engineered and managed the scalable MLOps deployment lifecycle: containerizing model-backed microservices (Docker) and leveraging Amazon SageMaker for high-throughput, low-latency inference in the production environment.
+● Implemented a multi-role architecture for intelligent job curation, integrating continuous integration/continuous deployment (CI/CD) workflows via GitHub Actions to ensure system reliability and rapid feature iteration.
+● Developed the foundational full-stack components, including RESTful APIs (Node.js) and front-end integration (Next.js/React), while managing specialized data storage using highly available Vector Databases and MongoDB.
+
+Saayam For All San Jose, CA (Remote)
+Full Stack Developer July 2025 – Present
+● Implemented a testing framework that reduced testing phase time by ~50% and improved defect detection accuracy.
+● Implemented i18n internationalization, reducing payload, improving page load by 25% enhancing scalability multi-lingual users.
+● Developed CI/CD GitHub Actions pipelines to automate build, test, and deployment stages, reducing manual overhead.
+
+National Institute of Standards and Technology Huntsville, AL
+Software Developer Jan 2025 – May 2025
+● Developed an automated pipeline to collect, pre-process, analyze CPU-generated jitter aligned with NIST SP 800-90B standards.
+● Automation with Python/Bash scripts, evaluation across Docker, VM and BareMetal to assess secure environmental settings.
+
+University of Alabama, Huntsville Huntsville, AL
+Frontend Developer Jul 2023 – Dec 2023
+● Collaborated on a microservice-based recruitment system to optimize hiring workflows for university departments. Improved review productivity by 50%.
+● Worked on faculty collaboration tool improving user experience and code maintenance. Implemented RESTful APIs and microservices architecture using Django and Python, ensuring scalable system design.
+
+Graduate Teaching Assistant Aug 2022 – Apr 2023
+● CS454/554 Cloud Computing - Lab Setup and Support: serving 50+ students, creating a practical cloud environment that increased successful project completions by 20%. Worked with professors to build impactful assignments for students.
+● CS104 Python - Student Assistance and Grading: Guided 40+ students through in-person labs, offering individualized support that elevated assignment completion rates and improved average scores by 10%.
+● CS317 Design and Analysis of Algorithms - Responsible for grading and in-person academic support for 60+ students. Assisted the professor in preparing coursework, assignments, and exams which enhancing class efficiency.
+
+EDUCATION
+University of Alabama in Huntsville Huntsville, Alabama
+Master of Science – Computer Science (Machine Learning & Cybersecurity) 4.0 GPA Graduated – May 2025
+
+PROJECT EXPERIENCE
+AI-Scraper
+● Engineered a prompt-driven AI scraping pipeline using LLM agents to automate data collection across anti-bot websites.
+● Reduced token usage by 80% and increased scraping efficiency, enabling scalable use in data-driven apps like market research.
+
+Real-Time Facial Emotion Classifier
+● Developed a Transfer Learning VGG19-based Convolutional Neural Network (CNN) for facial emotion classification, achieving a real-time validation accuracy of 90%.
+● Packaged the model into a Dockerized Flask API and integrated it with OpenCV to enable live, webcam-based inference for monitoring applications.
+
+Contextual Sentiment Analysis Model
+● Built and trained an advanced sentiment model using a Bi-LSTM architecture with Attention Mechanisms and GloVe embeddings for contextual richness.
+● Achieved 88% validation accuracy by implementing regularization techniques to mitigate severe overfitting, resulting in top performance in the project class.
+
+==================================================
+
+PARSED AND CONVERTED TEXT:
+Name: Sriabhinay (Abi) Kusuma
+Email: +1 (256) 468-2929 | sriabhinay1@gmail.com | linkedin/sriabhinay556 | Dallas, Texas*
+Phone: MLOps & Cloud: AWS (Lambda, Bedrock, EC2, S3, DynamoDB), Docker, GitHub Actions (CI/CD), MLFlow, Nginx
+Location: OBJECTIVE
+
+PROFESSIONAL SUMMARY:
+● Architected and optimized real-time vector search pipelines using LangChain and pre-trained models (e.g., DistilBERT embeddings), resulting in a 40% improvement in content matching and retrieval speed across domain-specific data. ● Engineered and managed the scalable MLOps deployment lifecycle: containerizing model-backed microservices (Docker) and leveraging Amazon SageMaker for high-throughput, low-latency inference in the production environment.
+
+EXPERIENCE:
+EDUCATION:
+Master of Science – Computer Science (Machine Learning & Cybersecurity) 4.0 GPA Graduated – May 2025 in 
+University of Alabama in Huntsville Huntsville, Alabama
+Graduated: 
+
+SKILLS:
+
+CERTIFICATIONS:
+- Publications: Machine Learning – Deep Learning based Cyberbullying Detection. ResearchGate - Link
+
+LANGUAGES:
+AI & Machine Learning: TensorFlow, Keras, PyTorch, Scikit-learn, Hugging Face Transformers, LangGraph, LangChain, RAG, BERT, LLaMA, GloVe, NLP & Data Science: Text Classification, Sentiment Analysis, Clustering, Vector Embeddings, Retrieval Pipelines, Computer Vision: OpenCV, Image Preprocessing, Object Detection (Foundational), MLOps & Cloud: AWS (Lambda, Bedrock, EC2, S3, DynamoDB), Docker, GitHub Actions (CI/CD), MLFlow, Nginx, Web & Backend: React.js, Next.js, Node.js, Express.js, Django, Spring Boot, REST APIs, Databases: PostgreSQL, MySQL, MongoDB, DynamoDB, ChromaDB (Vector DB), Tools & Platforms: Git, Linux, JIRA, Postman, Vercel, Figma, Agile, AWS Bedrock

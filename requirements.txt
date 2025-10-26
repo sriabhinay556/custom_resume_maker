@@ -1,0 +1,32 @@
+# Resume Automation Pipeline Requirements
+
+# Core dependencies
+requests>=2.31.0
+pathlib2>=2.3.7; python_version < "3.4"
+
+# LLM Provider APIs (install only what you need)
+openai>=1.0.0                    # For OpenAI GPT models
+anthropic>=0.7.0                 # For Anthropic Claude models
+google-generativeai>=0.3.0       # For Google Gemini models
+
+# PDF Generation (choose one or more)
+weasyprint>=60.0                 # Recommended: Best HTML/CSS support
+pdfkit>=1.0.0                    # Alternative: Requires wkhtmltopdf
+playwright>=1.40.0               # Alternative: Browser-based conversion
+
+# Optional: Enhanced templating
+jinja2>=3.1.0                    # For advanced template features
+
+# Development and testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Logging and utilities
+colorlog>=6.7.0
+python-dotenv>=1.0.0
+
+# Web interface
+flask>=2.3.0
+werkzeug>=2.3.0
